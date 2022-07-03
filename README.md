@@ -1,5 +1,5 @@
 # INeuron_Advance_Exce_Assignemnets
-In this repository, all the advance excel assignments will be submitted from the assignment 1 to assignmnet 5. All the assignmnet are answered in the pdf file. However, for practice purpose, many excel programs are completed using several functions and most of the questions in the assignment are covered using some pratical real life examples which i have upload along with word files in this repository. 
+In this repository, all the advance excel assignments will be submitted from the assignment 1 to assignmnet 5. All the assignmnet are answered in the pdf file. However, for practice purpose, many excel programs are completed using several functions and most of the questions in the assignment are covered using some pratical real life examples which i have upload excel files in this repository. 
 Few projects are completed in Excel which are as follows: 
 
 
